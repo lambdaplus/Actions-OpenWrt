@@ -11,6 +11,12 @@
 + 主题Argon
 + OpenClash
 + Turbo ACC
-+ 支持IPV6
 + UPNP
++ 广告屏蔽大师 Plus+
++ 上网时间控制
++ 解锁网易云灰色歌曲
++ 迅雷快鸟
++ 网络唤醒
++ KMS 服务器
++ 支持IPV6
 + ...
