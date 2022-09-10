@@ -8,8 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt
-
+name: Build LEDE
 on:
   schedule:
     - cron: 0 18 */3 * *
