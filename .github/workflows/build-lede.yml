@@ -10,8 +10,8 @@
 
 name: Build LEDE
 on:
-  schedule:
-    - cron: 0 18 */3 * *
+  # schedule:
+  #   - cron: 0 18 */3 * *
   workflow_dispatch:
 
   
