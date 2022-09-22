@@ -15,7 +15,7 @@
 
 
 # 针对 ImmortalWrt 项目拉取 argon 原作者的源码
-git clone https://github.com/jerrykuku/luci-theme-argon.git
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 
 # Add a feed source
 # echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
