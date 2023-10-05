@@ -1,7 +1,7 @@
 ## 自定义了一点点
 使用大雕的源码：https://github.com/coolsnowwolf/lede
 
-默认IP: 192.168.50.50
+默认IP: 192.168.31.31
 
 默认密码：password
 
