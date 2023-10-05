@@ -20,7 +20,7 @@ env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   REPO_BRANCH: master #openwrt-21.02
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: config.buildinfo
+  CONFIG_FILE: seed.config #config.buildinfo
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   DIY_P3_SH: diy-part3.sh
